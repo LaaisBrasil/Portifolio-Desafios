@@ -1,0 +1,58 @@
+body {
+
+    background-color: gray;
+    padding: 170px 100px 100px 345px;
+}
+div {
+    float: left;
+    
+    
+    
+}
+
+.c3 {
+    width: 250px;
+    height: 280px;
+    margin-top: 14px;
+    margin-left: 21px;
+    
+}
+
+.c1 {
+    background-color: white;
+    width: 280px;
+    height: 304px;
+    padding-left: 10px;
+    border-width: 2px;
+    border-style: solid black;
+    border-radius: 30px 1px 1px 30px;
+    
+}
+
+.c2 {
+    background-color:white;
+    width: 280px;
+    height: 304px;
+    padding-left: 10px;
+    border-width: 2px;
+    border-style: solid black;
+    border-radius: 1px 30px 30px 1px;
+}
+
+p {
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.titulo {
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 41px;
+    margin: 7px;
+}
+
+.b1 {
+    background-color: rgb(197, 223, 223);
+    border-radius: 30px;
+    width: 250px;
+    height: 60px;
+    
+}
